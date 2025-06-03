@@ -1,7 +1,8 @@
 # 타이타닉 생존 예측 분석
 
-Dataset URL: https://www.kaggle.com/competitions/titanic/data
 팀명: G15 (Option A)  
+
+Dataset URL: https://www.kaggle.com/competitions/titanic/data
 
 팀원: 장예아 식품영양학과 zhangruiya1212@163.com (코드 구현, 데이터셋 처리)  
 
