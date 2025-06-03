@@ -1,5 +1,15 @@
 # 타이타닉 생존 예측 분석
 
+Dataset URL: https://www.kaggle.com/competitions/titanic/data
+팀명: G15 (Option A)  
+
+팀원: 장예아 식품영양학과 zhangruiya1212@163.com (코드 구현, 데이터셋 처리)  
+
+  나란 식품영양학과 956738154@qq.com (유튜브 녹화)  
+      
+  유카 영어영문학과 dyy20030906@gmail.com (그래프 분석)
+
+
 ### 데이터셋 설명
 
 타이타닉 데이터셋은 891명의 승객 정보를 담고 있으며, 각 승객에 대해 객실 등급(Pclass), 성별(Sex), 나이(Age), 요금(Fare), 동반 가족 수(SibSp, Parch), 탑승 항구(Embarked) 등 다양한 특징과 생존 여부(Survived, 0 또는 1)가 포함되어 있습니다. 이 데이터는 1912년 타이타닉 호 침몰 사고 당시 승객들의 생존 여부를 예측하는 데 사용됩니다.
