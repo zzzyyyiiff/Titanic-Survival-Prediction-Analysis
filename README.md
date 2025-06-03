@@ -6,8 +6,10 @@ Dataset URL: https://www.kaggle.com/competitions/titanic/data
 
 Video URL: https://youtu.be/lDs4UTeCMIg?feature=shared
 
-팀원: 장예아 식품영양학과 zhangruiya1212@163.com (코드 구현, 데이터셋 처리)  
+팀원:
 
+      장예아 식품영양학과 zhangruiya1212@163.com (코드 구현, 데이터셋 처리) 
+      
       나란 식품영양학과 956738154@qq.com (유튜브 녹화)  
       
       유카 영어영문학과 dyy20030906@gmail.com (그래프 분석)
