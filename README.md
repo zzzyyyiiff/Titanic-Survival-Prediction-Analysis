@@ -2,7 +2,8 @@
 
 팀명: G15 (Option A)  
 
-Dataset URL: https://www.kaggle.com/competitions/titanic/data
+Dataset URL: https://www.kaggle.com/competitions/titanic/data  
+Video URL: https://youtu.be/lDs4UTeCMIg?feature=shared
 
 팀원: 장예아 식품영양학과 zhangruiya1212@163.com (코드 구현, 데이터셋 처리)  
 
